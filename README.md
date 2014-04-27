@@ -12,7 +12,7 @@ Installation
 ============
 There are several options to deploy this package:
 
-1. **.docm** - Open the .docm file (Macro-enabled MS Word Template) and follow the instructions
+1. **.docm** - Open the .docm file (Macro-enabled MS Word Template) and follow the instructions.
 2. **.bas** - Under the Developer tab in MS Word, navigate to Visual Basic -> File -> Import File. Choose the .bas file from the directory.
 3. **.vbs** - Open the .vbs in a text editor such as Sublime Text or Notepad. Under the Developer tab in MS word, navigate to Visual Basic -> Insert -> Module. Copy and paste the contents of the .vbs file into the blank module. Exit Visual Basic. You can now call the VBA macro.
 
